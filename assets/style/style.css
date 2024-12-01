@@ -199,7 +199,7 @@ img:hover {
     background-repeat: no-repeat;
     height: 271px;
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
     opacity: 1;
     transition: 0.5s;
 }
@@ -365,6 +365,7 @@ img:hover {
     /* Header */
     .menu {
         height: 217px;
+        padding: 0 2.5rem;
     }
 
     .menu__titulo {
